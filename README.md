@@ -6,9 +6,7 @@
 Es un proyecto inspirado en *Ready Player One* que busca explorar el potencial de la realidad virtual mediante tecnologías modernas. Este repositorio documenta su desarrollo técnico, desde su arquitectura hasta su implementación.  
 
 
-![Captura de pantalla 2024-12-01 205013](https://github.com/user-attachments/assets/d00b919f-0386-4e26-8c39-f65079b8ecf4)
-
-![Captura de pantalla 2024-12-01 204930](https://github.com/user-attachments/assets/9dd7a923-318f-4e77-966d-8eb0928f1236)
+![Captura de pantalla 2024-12-01 205013](https://github.com/user-attachments/assets/d00b919f-0386-4e26-8c39-f65079b8ecf4) ![Captura de pantalla 2024-12-01 204930](https://github.com/user-attachments/assets/9dd7a923-318f-4e77-966d-8eb0928f1236)
 
 ---
 
