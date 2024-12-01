@@ -15,11 +15,11 @@ Oasis-Var es un entorno web diseñado para ser adaptable, interactivo y visualme
 
 El desarrollo del proyecto incluye:  
 
-- **React.js**: Para la construcción de interfaces de usuario dinámicas y eficientes.  
-- **Lucide-react**: Implementación de íconos intuitivos y modernos.  
-- **Tailwind CSS**: Gestión de estilos CSS para un diseño responsivo y consistente.  
-- **YouTube API**: Integración de contenido multimedia mediante modales interactivos.  
-- **JavaScript ES6+**: Estructuración y funcionalidad del código con prácticas modernas.  
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) **React.js**: Para la construcción de interfaces de usuario dinámicas y eficientes.  
+- ![Lucide](https://img.shields.io/badge/Lucide-2A2A2A?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white) **Lucide-react**: Implementación de íconos intuitivos y modernos.  
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) **Tailwind CSS**: Gestión de estilos CSS para un diseño responsivo y consistente.  
+- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) **YouTube API**: Integración de contenido multimedia mediante modales interactivos.  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) **JavaScript ES6+**: Estructuración y funcionalidad del código con prácticas modernas.  
 
 ---
 
@@ -74,5 +74,5 @@ Si deseas contribuir, abre un *Issue* o un *Pull Request* en este repositorio. T
 ---
 
 **Contacto**  
-Para más información, visita [tu-usuario.github.io](https://tu-usuario.github.io) o escribe a [correo@ejemplo.com](mailto:correo@ejemplo.com).  
+Para más información, visita [Francisco A. Lopez](https://www.linkedin.com/in/francisco-lopez-cl/) o escribe a [panchodev@gmail.com](mailto.panchodev@gmail.com).  
 ```  
