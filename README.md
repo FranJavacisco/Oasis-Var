@@ -1,4 +1,4 @@
-```markdown
+
 # Oasis-Var  
 
 **Oasis-Var** es un proyecto inspirado en *Ready Player One* que busca explorar el potencial de la realidad virtual mediante tecnologías modernas. Este repositorio documenta su desarrollo técnico, desde su arquitectura hasta su implementación.  
