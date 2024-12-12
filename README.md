@@ -80,6 +80,6 @@ Si deseas contribuir, abre un *Issue* o un *Pull Request* en este repositorio. T
 ---
 
 **Contacto**  
-Para más información, visita [LinkedIn](https://www.linkedin.com/in/francisco-lopez-cl/) o escribe a [panchodev@gmail.com](mailto:panchodev@gmail.com).  
+Para más información, visita [LinkedIn](https://www.linkedin.com/in/francisco-lopez-cl/) o escribe a [panchodev2024@gmail.com](mailto:panchodev2024@gmail.com).  
 ```  
 
